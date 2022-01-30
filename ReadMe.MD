@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Pitwa</h1>
-<h3 align="center">I build applications and fix bugs. I learn Guitar in my free time.</h3>
+<h3 align="center">Am a full stack developer from Uganda (the pearl of Africa). I build applications and fix bugs.</h3>
 
 <p align="center">
 <a href="https://dev.to/isaacpitwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="isaacpitwa" height="40" width="40" /></a>
