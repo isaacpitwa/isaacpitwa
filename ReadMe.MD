@@ -10,22 +10,22 @@
 </p>
 
 - 🌱  I’m currently learning **SwiftUI**
-- 💬 Ask me about **Flutter,React**
-- 🤝 I’m looking for help with **open source contribution**
+- 💬  Ask me about **Flutter, React, Hasura**
+- 🤝  I’m looking for help with **open source contribution**
 - 📝  I irregularly write articles on [https://dev.to/isaacpitwa](https://dev.to/isaacpitwa)
 
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2022
+> 🏆 199 Contributions in the Year 2022
  > 
 > 📦 99.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 2 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 **I'm an Night 🐤** 
 
