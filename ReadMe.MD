@@ -9,7 +9,7 @@
 <a href="https://instagram.com/isaacpitwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="isaacpitwa" height="40" width="40" /></a>
 </p>
 
-- 🌱  I’m currently learning **SwiftUI**
+- 🌱  I’m currently learning **SwiftUI** improvinmg  my **HTML** **CSS** **Javascript** **Webpack**
 - 💬  Ask me about **Flutter, React, Hasura**
 - 🤝  I’m looking for help with **open source contribution**
 - 📝  I irregularly write articles on [https://dev.to/isaacpitwa](https://dev.to/isaacpitwa)
@@ -44,7 +44,7 @@
 ⌚︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-JavaScript               22 hrs 19 mins       ████████████████████████░   90.87% 
+HTML + CSS + JS               22 hrs 19 mins       ████████████████████████░   90.87% 
 Swift                     8 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   9.13%
 
 💻 Operating System: 
@@ -53,6 +53,6 @@ MacOS                  30 hrs 20 mins       ████████████
 ```
 
 
- Last Updated on 30/01/2022 00:36:21 EAT
+ Last Updated on 25/03/2022 00:36:21 EAT
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacpitwa" alt="isaacpitwa" /> </p>
