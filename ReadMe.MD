@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Pitwa</h1>
-<h3 align="center">Am a full stack developer from Uganda (the pearl of Africa). I build applications and fix bugs.</h3>
+<h3 align="center">Am a full stack developer from Uganda (the pearl of Africa). I build applications and fix bugs 😎.</h3>
 
 <p align="center">
 <a href="https://dev.to/isaacpitwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="isaacpitwa" height="40" width="40" /></a>
@@ -10,7 +10,7 @@
 </p>
 
 - 🌱  I’m currently learning **SwiftUI** improving  my **HTML** **CSS** **Javascript** **Webpack**
-- 💬  Ask me about **Flutter, React, Hasura**
+- 💬  Ask me about **Flutter, React, Hasura, SwiftUI**
 - 🤝  I’m looking for help with **open source contribution**
 - 📝  I irregularly write articles on [https://dev.to/isaacpitwa](https://dev.to/isaacpitwa)
 - 🧑🏾‍💻  I am Available for Hire for as Frontend Developer, Mobile Developer or  Fullstack developer.
@@ -31,10 +31,10 @@
 **I'm an Night 🐤** 
 
 ```text
-🌞 Morning    89 commits     ██████████░░░░░░░░░░░░░░░   40.64% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
-🌙 Night      118 commits    █████████████░░░░░░░░░░░░   53.0%
+🌞 Morning    391 commits     ██████████░░░░░░░░░░░░░░░   40.64% 
+🌆 Daytime    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌃 Evening    49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
+🌙 Night      500 commits    █████████████░░░░░░░░░░░░   53.0%
 
 ```
 
@@ -53,7 +53,10 @@ MacOS                  30 hrs 20 mins       ████████████
 
 ```
 
+🧘🏽‍♂️ ## Satistics
+![Isaac Pitwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacpitwa&show_icons=true&theme=radical)
 
- Last Updated on 25/03/2022 00:36:21 EAT
+
+ Last Updated on 12/08/2022 00:36:21 EAT
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacpitwa" alt="isaacpitwa" /> </p>
