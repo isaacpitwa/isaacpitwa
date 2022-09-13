@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacpitwa" alt="isaacpitwa" /> </p>
 
 <h1>Hi 👋, I'm Isaac Pitwa</h1>
-<p>Am a full stack developer from Uganda (the pearl of Africa). I build applications and fix bugs.</p>
+<p>Am a full stack developer from Uganda (the pearl of Africa). Solving problems using software.</p>
 
 
 - 🌱  I’m currently learning **SwiftUI**
