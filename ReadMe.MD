@@ -11,4 +11,5 @@
 - 🧑🏾‍💻  I am Available for Hire for as Frontend Developer, Mobile Developer or  Fullstack developer.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-pitwa)
-[![portfolio](https://img.shields.io/badge/my_portfolio-ffc01d?style=for-the-badge&logo=ko-fi&logoColor=white)](https://isaacpitwa.github.io/my-portfolio/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isaacpitwa)
+[![portfolio](https://img.shields.io/badge/my_portfolio-ffc01d?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.isaacpitwa.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isaacpitwa)
