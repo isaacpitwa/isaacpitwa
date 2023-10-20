@@ -5,10 +5,10 @@
 
 
 - 🌱  I’m currently learning **SwiftUI**
-- 💬  Ask me about **Flutter, React, Hasura, Ruby, Nodejs**
+- 💬  Ask me about ** Python, Django, Flutter, React, Hasura, Ruby, Nodejs, Firebase**
 - 🤝  I’m looking for help with **open source contribution**
 - 📝  I irregularly write articles on [https://dev.to/isaacpitwa](https://dev.to/isaacpitwa)
-- 🧑🏾‍💻  I am Available for Hire  as Frontend Developer, Backend Developer, Mobile Developer or  Fullstack developer.
+- 🧑🏾‍💻  I am Available for Hire  as a Frontend Developer, Backend Developer, Mobile Developer or  Fullstack developer.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-pitwa)
 [![portfolio](https://img.shields.io/badge/my_portfolio-ffc01d?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.isaacpitwa.com/)
