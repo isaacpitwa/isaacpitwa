@@ -5,7 +5,7 @@
 
 
 - 🌱  I’m currently learning **SwiftUI**
-- 💬  Ask me about ** Python, Django, Flutter, React, Hasura, Ruby, Nodejs, Firebase**
+- 💬  Ask me about **Python, Django, Flutter, React, Hasura, Ruby, Nodejs, Firebase**
 - 🤝  I’m looking for help with **open source contribution**
 - 📝  I irregularly write articles on [https://dev.to/isaacpitwa](https://dev.to/isaacpitwa)
 - 🧑🏾‍💻  I am Available for Hire  as a Frontend Developer, Backend Developer, Mobile Developer or  Fullstack developer.
