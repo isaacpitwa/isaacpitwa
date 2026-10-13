@@ -28,11 +28,11 @@
 
 ### What I Do
 
-- **📱 Mobile Development:** Build and maintain cross-platform and native mobile applications using React Native, Expo, Flutter, SwiftUI, and Kotlin.
-- **⚙️ Backend Engineering:** Design robust APIs, backend services, and data-driven applications using Python, Django, Django REST Framework, Node.js, and Ruby on Rails.
-- **☁️ Cloud & DevOps:** Build CI/CD pipelines, automate deployments, manage cloud infrastructure, and operate containerized workloads using AWS, GCP, Docker, Kubernetes, and Terraform.
-- **💻 Full-Stack Development:** Deliver end-to-end applications using React, Next.js, TypeScript, REST APIs, GraphQL, and modern databases.
-- **👥 Engineering Leadership:** Collaborate with cross-functional teams, mentor developers, and improve engineering delivery, code quality, and system reliability.
+- **Mobile Development:** Build and maintain cross-platform and native mobile applications using React Native, Expo, Flutter, SwiftUI, and Kotlin.
+- **Backend Engineering:** Design robust APIs, backend services, and data-driven applications using Python, Django, Django REST Framework, Node.js, and Ruby on Rails.
+- **Cloud & DevOps:** Build CI/CD pipelines, automate deployments, manage cloud infrastructure, and operate containerized workloads using AWS, GCP, Docker, Kubernetes, and Terraform.
+- **Full-Stack Development:** Deliver end-to-end applications using React, Next.js, TypeScript, REST APIs, GraphQL, and modern databases.
+- **Engineering Leadership:** Collaborate with cross-functional teams, mentor developers, and improve engineering delivery, code quality, and system reliability.
 
 ---
 
