@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/isaacpitwa/profile-assets/main/your-image-name.png" alt="Isaac Pitwa Banner" width="100%" style="border-radius: 10px;" />
 </p>
-
 <h1 align="center">Hi, I'm Isaac Pitwa 👋</h1>
 <h3 align="center">Senior Software Engineer | Mobile, Backend & Cloud Infrastructure</h3>
 
