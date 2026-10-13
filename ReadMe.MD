@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaacpitwa&label=Profile%20Views&color=0e75b6&style=flat" alt="isaacpitwa" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Coding Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
 <h1 align="center">Hi, I'm Isaac Pitwa 👋</h1>
