@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 - **📱 Mobile Development:** Build and maintain cross-platform and native mobile applications using React Native, Expo, Flutter, SwiftUI, and Kotlin.
 - **⚙️ Backend Engineering:** Design robust APIs, backend services, and data-driven applications using Python, Django, Django REST Framework, Node.js, and Ruby on Rails.
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 - **Mobile:** React Native · Expo · Flutter · SwiftUI · Kotlin
 - **Frontend:** React · Next.js · TypeScript · JavaScript · Redux
@@ -47,19 +47,19 @@
 
 ---
 
-### 🌟 Selected Production Projects
+### Selected Production Projects
 
 *Explore my portfolio for detailed case studies, or check out these live applications:*
 
-- 📱 **[Stabyl Pro](https://apps.apple.com/gb/app/stabyl-pro/id6762318568)** — Mobile fintech application.
-- 🥊 **[HITAI](https://apps.apple.com/ie/app/hitai/id6477334958)** — AI-powered fight analytics mobile application.
-- 💳 **[Credify](https://play.google.com/store/apps/details?id=africa.credify.credifyafrica)** — Mobile application for digital financial services.
-- 🛒 **[Kibatu](https://play.google.com/store/apps/details?id=com.kibatu.mobile)** — Mobile shopping application.
-- 🌐 **[Explore Full Portfolio](https://isaac-pitwa.netlify.app/)** — Discover more projects, case studies, and professional experience.
+- **[Stabyl Pro](https://apps.apple.com/gb/app/stabyl-pro/id6762318568)** — Mobile fintech application.
+- **[HITAI](https://apps.apple.com/ie/app/hitai/id6477334958)** — AI-powered fight analytics mobile application.
+- **[Credify](https://play.google.com/store/apps/details?id=africa.credify.credifyafrica)** — Mobile application for digital financial services.
+- **[Kibatu](https://play.google.com/store/apps/details?id=com.kibatu.mobile)** — Mobile shopping application.
+- **[Explore Full Portfolio](https://isaac-pitwa.netlify.app/)** — Discover more projects, case studies, and professional experience.
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 I'm actively interested in **remote opportunities** involving mobile engineering, backend development, full-stack product engineering, and cloud infrastructure.
 
